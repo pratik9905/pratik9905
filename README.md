@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Kr. Sharma</h1>
 <h3 align="center">A passionate Software Testing and developing Products from India</h3>
-<img align="right" alt="coding" width="400" height="500" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="coding" width="400" height="300" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik9905&label=Profile%20views&color=0e75b6&style=flat" alt="pratik9905" /> </p>
 
