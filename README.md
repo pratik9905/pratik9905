@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Playwright, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/pratikkumar734/](https://www.crio.do/learn/portfolio/pratikkumar734/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.crio.do/learn/portfolio/pratikkumar734/)
 
 - 💬 Ask me about **JAVA, Selenium, TestNg**
 
