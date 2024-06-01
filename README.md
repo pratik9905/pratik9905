@@ -1,4 +1,4 @@
-![Banner](https://github.com/pratik9905/pratik9905/blob/main/Welcome.png)
+![Banner](https://github.com/pratik9905/pratik9905/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Pratik Kr. Sharma</h1>
 <h3 align="center">A passionate Software Testing and developing Products from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
